@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prueba-consumo-de-apis-con-react-pablo-wieschollek/static/css/main.6a8dfa7a.css",
+    "main.js": "/prueba-consumo-de-apis-con-react-pablo-wieschollek/static/js/main.f631b9a1.js",
+    "index.html": "/prueba-consumo-de-apis-con-react-pablo-wieschollek/index.html",
+    "main.6a8dfa7a.css.map": "/prueba-consumo-de-apis-con-react-pablo-wieschollek/static/css/main.6a8dfa7a.css.map",
+    "main.f631b9a1.js.map": "/prueba-consumo-de-apis-con-react-pablo-wieschollek/static/js/main.f631b9a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8dfa7a.css",
+    "static/js/main.f631b9a1.js"
+  ]
+}
